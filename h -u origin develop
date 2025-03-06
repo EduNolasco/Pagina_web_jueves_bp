@@ -1,0 +1,29 @@
+[33mcommit d1cd65d326624ed331a72621ecc5275819d62f51[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Eduardo Nolasco <enolasco@cuc.edu.co>
+Date:   Wed Mar 5 19:45:47 2025 -0500
+
+    Cambio de título a 'MI PRIMER PORTAFOLIO PERSONAL'
+
+[33mcommit 0d5c47b8b97c20715ecbfcbbd78c61a6ed6f9bb7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mmain[m[33m)[m
+Author: Eduardo Nolasco <enolasco@cuc.edu.co>
+Date:   Wed Mar 5 01:07:03 2025 -0500
+
+    Se edito el h1 y se agrego la imagen del estadio metropolitano
+
+[33mcommit 6b496b0bed8edf77d9255f33a07b8e625701f736[m
+Author: Eduardo Nolasco <enolasco@cuc.edu.co>
+Date:   Wed Mar 5 00:15:28 2025 -0500
+
+    Creación de un h1 inicial
+
+[33mcommit f30b89a947dff66da6143871219c8dc060f73c9f[m
+Author: Eduardo Nolasco <enolasco@cuc.edu.co>
+Date:   Tue Mar 4 23:58:25 2025 -0500
+
+    Cambio del titulo de la página
+
+[33mcommit cc7c0212ca2496b9c527bf6bfbbcc6d18c9db726[m
+Author: Eduardo Nolasco <enolasco@cuc.edu.co>
+Date:   Tue Mar 4 22:45:11 2025 -0500
+
+    Commit inicial
